@@ -1,8 +1,5 @@
-# temp_convert
+# flutter_converter_demo
 
-A new Flutter project.
+A basic converter app built in Flutter as a demo.
+[![App Demo](https://imgur.com/a/qDuffTG)](https://imgur.com/a/qDuffTG)
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
